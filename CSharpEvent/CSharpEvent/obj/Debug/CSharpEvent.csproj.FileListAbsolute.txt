@@ -1,0 +1,6 @@
+c:\visual studio 2013\Projects\CSharpEvent\CSharpEvent\bin\Debug\CSharpEvent.exe.config
+c:\visual studio 2013\Projects\CSharpEvent\CSharpEvent\bin\Debug\CSharpEvent.exe
+c:\visual studio 2013\Projects\CSharpEvent\CSharpEvent\bin\Debug\CSharpEvent.pdb
+c:\visual studio 2013\Projects\CSharpEvent\CSharpEvent\obj\Debug\CSharpEvent.csprojResolveAssemblyReference.cache
+c:\visual studio 2013\Projects\CSharpEvent\CSharpEvent\obj\Debug\CSharpEvent.exe
+c:\visual studio 2013\Projects\CSharpEvent\CSharpEvent\obj\Debug\CSharpEvent.pdb
